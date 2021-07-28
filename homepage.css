@@ -1,0 +1,117 @@
+body{
+	height: 1000px;
+	width: 1330px;
+    background-color: white;
+	background-size: cover;
+	background-position: center;
+	opacity: 100%;
+	
+
+}
+
+
+
+
+.links{
+	
+	width: 83%;
+	height: 20%;
+	background-color: rgb(15, 4, 68);
+	opacity: 50%;
+	position: relative;
+	top: -104px;
+	left: 206px;
+	padding: 3px 10px;
+}
+
+
+.links ul{
+ text-align: center;
+}
+
+.links ul li{
+ list-style: none;
+ display: inline-block;
+}
+
+.links ul li a{
+display: block;
+text-decoration: none;
+text-transform: uppercase;
+color: #fff;
+font-size: 20px;
+font-family: 'Raleway', sans-serif;
+letter-spacing: 2px;
+font-weight: 600;
+padding: 142px 35px 40px 15px;
+margin: 0px 70px 10px 20px;
+ transition: all cubic-bezier(.33,-0.66,.27,1.35) 0.9s;
+}
+
+.links ul li a:hover{
+background-color:white;
+color: black;
+padding: 25px;
+height: 20px;
+transition: all cubic-bezier(.33,-0.66,.27,1.35) 0.9s;
+
+}
+
+p{
+	font: sans-serif;
+	position: relative;
+	top:-338px;
+	font-size: 22px;
+	color: black;
+	padding-top: 100px;
+	padding-left: 459px;
+	padding-right: 20px;
+}
+
+h1{ 
+	position: relative;
+	top:-230px;
+    left:650px;
+    right: 500px;
+}
+
+.box1{
+	background-color:#72b5b5;
+	position: relative;
+	top:-60px;
+    left:-2px;
+    right: 500px;
+	height:500px;
+	width:1326px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 0px;
+}
+
+.Logo1{
+	height:100px;
+	width:200px;
+	position: relative;
+	top: 100px;
+	left:0px;
+}
+.Logo1 img{
+	height: 206px;
+	width: 206px;
+	position: relative;
+	top: -104px;
+	left:-4px;
+	opacity: 70%;
+}
+
+ #footer {
+ 	position: relative;
+ 	top: -55px;
+ 	left: -2px;
+	height: 250px;
+	width: 1332px;
+	background-color: black;
+	border: 1px;
+	border-color: black;
+
+}
